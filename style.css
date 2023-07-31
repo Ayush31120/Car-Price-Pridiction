@@ -1,0 +1,13 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: boder-box;
+}
+
+.bg-dark {
+    background-color: aliceblue;
+}
+
+.mt-50{
+    margin-top: 50px;
+}
